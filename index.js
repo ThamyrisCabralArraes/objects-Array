@@ -7,7 +7,7 @@ let pet = {
     console.log(`${pet.nome} é ${adjetivos}`);
   },
 };
-pet.funcao('Lindo', 'Maravilhoso', 'Dengoso');
+pet.funcao('Lindo', 'Maravilhosoo', 'Dengoso');
 
 let amor = {
   nome: 'Carlos',
